@@ -1,0 +1,27 @@
+[
+    {
+    "firstname": "John",
+    "lastname":"Doe",
+    "email":"john.doe@example.com",
+    "dob":"1990-01-01",
+    "age": 33,
+    "price": 100.50,
+    "isActive": true,
+    "ismarried": false,
+    "note": null,
+    "hobies": ["reading", "traveling", "swimming"]
+},
+{
+    "firstname": "Jane",
+    "lastname":"Smith",
+    "email":"jane.smith@example.com",
+    "dob":"1990-01-01",
+    "age": 25,
+    "price": 5,
+    "isActive": true,
+    "ismarried": true,
+    "note": null,
+    "hobies": ["reading", "traveling", "swimming"]
+}
+
+]
