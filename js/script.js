@@ -1,0 +1,1 @@
+const greet = (name) => `Hello, ${name}! Welcome to AI Automation Course`
